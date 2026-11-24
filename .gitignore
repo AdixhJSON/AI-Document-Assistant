@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+
+# Python files
+*.pyc
+.ipynb_checkpoints/
+
+# Private and sample documents
+data/*.pdf
+
+# Local backup
+rag_backup.py
